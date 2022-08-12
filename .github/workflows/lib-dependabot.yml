@@ -1,7 +1,6 @@
 name: Dependabot fetch metadata
 on:
   push:
-    branches: [ "master" ]
 
 permissions:
   pull-requests: write
